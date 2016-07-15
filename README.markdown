@@ -4,6 +4,8 @@ RubyCAS-Client-Rails
 Tweaked from original rubycas-client-cas but with change from this:
 https://github.com/rubycas/rubycas-client-rails/pull/32/commits/f9b64a9141460c6f3947dadd6730e70f87b919d4
 
+The Conference/Events App uses this for auth
+
 Rails plugin for using the RubyCAS-Client as a controller filter.
 
 This uses a Railtie, so will only work with Rails 3.0 and up.
